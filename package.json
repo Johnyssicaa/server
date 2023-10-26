@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Johnyssicaa/server#readme",
   "dependencies": {
     "request": "^2.88.2",
-    "sqlit": "^2.0.0"
+    "sqlit": "^2.0.0",
+    "sqlite3": "^5.1.6"
   }
 }
